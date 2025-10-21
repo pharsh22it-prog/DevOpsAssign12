@@ -1,7 +1,7 @@
 ### Output Screenshots
 
 #### Login Page
-![Login Page](DevOpsAssign12/images
+![Login Page](/DevOpsAssign12/images
 /Screenshot from 2025-10-21 21-14-15.png)
 
 #### Register Page
