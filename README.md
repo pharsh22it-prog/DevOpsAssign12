@@ -1,7 +1,7 @@
 ### Output Screenshots
 
 #### Login Page
-![Login Page](./images/login_page.png)
+![Login Page](./images/lScreenshot from 2025-10-21 21-14-15.png)
 
 #### Register Page
 ![Register Page](./images/register_page.png)
