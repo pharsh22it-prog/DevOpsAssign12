@@ -1,11 +1,10 @@
-### Output Screenshots
+### Output Screenshots 
 
 #### Login Page
-![Login Page](/DevOpsAssign12/images
-/Screenshot from 2025-10-21 21-14-15.png)
+![Login Page](images/Screenshot%20from%202025-10-21%2021-15-30.png)
 
 #### Register Page
-![Register Page](./images/register_page.png)
+![Register Page](images/Screenshot%20from%202025-10-21%2021-15-42.png)
 
 #### Home Page
-![Home Page](./images/home_page.png)
+![Home Page](images/Screenshot%20from%202025-10-21%2021-14-15.png)
